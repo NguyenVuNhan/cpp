@@ -1,0 +1,4 @@
+{
+    "editor.renderWhitespace": "all",
+    "C_Cpp.clang_format_sortIncludes": true
+}
